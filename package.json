@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "eslint-plugin-html": "^4.0.2",
-    "purgecss": "^0.21.0",
+    "purgecss": "^0.22.0",
     "webpack-sources": "^1.1.0"
   }
 }
